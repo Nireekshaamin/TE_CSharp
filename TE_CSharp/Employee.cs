@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TE_CSharp
 {
-    internal class Employee
+    public class Employee
     {
         public static void Main()
         {

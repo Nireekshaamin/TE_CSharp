@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace TE_CSharp
 {
-    internal class Arrays
+    public class Arrays
     {
         public static void Main()
         {
+           // Collections collections = new Collections();
+            Console.WriteLine("hello");
+            //collections.ArrayList_demo();
+
             int[] array = new int[] { 1, 2, 3 };
             Console.WriteLine("array");
             foreach (int i in array)
